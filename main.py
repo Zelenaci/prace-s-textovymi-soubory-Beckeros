@@ -10,8 +10,10 @@ from random import randint, choice
 
 
 def f(): 
-    return True
+    return True 
 
 
 if __name__ == "__main__":
     print(f())
+
+    
