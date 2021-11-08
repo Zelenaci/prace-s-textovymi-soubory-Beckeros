@@ -9,8 +9,8 @@ from random import randint, choice
 ############################################################################
 
 
-def f():
-    return None :D
+def f(): 
+    return None :D  :DDDDD
 
 
 if __name__ == "__main__":
